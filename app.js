@@ -1,11 +1,14 @@
 import react from "react";
 import ReactDOM from "react-dom/client";
+import Header from "./src/Components/Header";
 
 
 function App(){
 
     return(
-        <h1>hello this is web </h1>
+  <>
+   <Header></Header>
+  </>
     )
 }
 
