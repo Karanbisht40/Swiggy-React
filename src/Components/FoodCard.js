@@ -1,4 +1,5 @@
- 
+
+//   detail about the food card 
  export default  function FoodCard({foodData}){
     return(
         <>
