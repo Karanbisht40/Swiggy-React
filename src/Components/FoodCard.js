@@ -1,6 +1,5 @@
  
  export default  function FoodCard({foodData}){
-     
     return(
         <>
         <a href={foodData?.action.link}>

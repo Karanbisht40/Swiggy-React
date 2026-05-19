@@ -13,7 +13,6 @@ function App() {
                     <Route path="/" element={<Home></Home>}></Route>
                     <Route path="/restaurant" element={<Restaurant></Restaurant>}></Route>
                     <Route path="/city/delhi/:id" element={<RestaurantMenu></RestaurantMenu>}></Route>
-
                 </Routes>
             </BrowserRouter>
 
