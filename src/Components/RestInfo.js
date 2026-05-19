@@ -5,6 +5,7 @@ export default function RestInfo({restData}){
 
     return (
          <>
+         {/* this is restaurant infomation */}
         <div className="flex w-full justify-between mb-2 pb-2">
           <div className="w-[70%]">
             <p className="text-2xl text-gray-700 font-semibold mb-1">{restData?.name}</p>
