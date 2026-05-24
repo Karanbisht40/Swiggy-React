@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 
 export default function RestCard({ restInfo }) {
-
+//restro info
    return (
       <Link to={"/city/delhi/"+restInfo?.info?.id}>
       <div className="max-w-[280px] mb-2 transform transition duration-200 hover:scale-95">
