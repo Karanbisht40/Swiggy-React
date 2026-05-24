@@ -1,6 +1,6 @@
-
+//loader function
 export default function Shimmer() {
-  //loader
+  //loader 
   return (
     <>
       <div className="flex flex-wrap w-[80%] mx-auto mt-20 gap-5">
