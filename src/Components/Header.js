@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-//header part
+//header
 export default function Header() {
   return (
     <header className="bg-[#ff5200] font-serif">

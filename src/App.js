@@ -4,7 +4,7 @@ import Home from "./Components/Home";
 import { BrowserRouter, Route, Routes } from "react-router" ;
 import RestaurantMenu from "./Components/RestaurantMenu";
 
-
+//main
 function App() {
     return (
         <>
