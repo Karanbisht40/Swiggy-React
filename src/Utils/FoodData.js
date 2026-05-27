@@ -1,3 +1,4 @@
+// food data 
 export const imageGridCards =
     [
         {
