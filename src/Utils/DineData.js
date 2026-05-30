@@ -1,4 +1,6 @@
 // data swiggy 
+//swiggy project
+
 export const dineoutRestaurants = [{
         "info": {
             "id": "816534",
