@@ -10,7 +10,9 @@ export const GrocerGridCard =   [
         "type": "DEEPLINK"
     },
     "accessibility": {},
+    
     "entityId": "64a7a4ef02878f0001e7e0be",
+    
     "frequencyCapping": {},
     "externalMarketing": {},
     "description": "Fresh Vegetables"
