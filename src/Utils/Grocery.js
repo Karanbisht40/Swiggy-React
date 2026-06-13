@@ -1,4 +1,5 @@
-//info
+//
+//information
 export const GrocerGridCard =   [
                           
     {
