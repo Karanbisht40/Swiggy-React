@@ -1,5 +1,4 @@
-// data swiggy 
-//swiggy project
+//information
 
 export const dineoutRestaurants = [{
         "info": {
