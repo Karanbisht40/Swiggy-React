@@ -37,14 +37,24 @@ A fully responsive **Swiggy-inspired food ordering web application** built with 
 ## 📂 Folder Structure
 
 ```text
-src/
-├── components/
-├── utils/
-├── hooks/
-├── assets/
-├── store/
-├── App.js
-└── index.js
+SWIGGY_REACT/
+├── src/
+│   ├── assets/
+│   ├── Components/
+│   ├── stores/
+│   ├── Utils/
+│   ├── App.js
+│   ├── index.css
+│   └── index.html
+├── .parcel-cache/
+├── dist/
+├── node_modules/
+├── .gitignore
+├── .postcssrc
+├── index.html
+├── package.json
+├── package-lock.json
+└── README.md
 ```
 
 ---
