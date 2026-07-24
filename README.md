@@ -3,6 +3,10 @@
 A fully responsive **Swiggy-inspired food ordering web application** built with **React.js**. This project fetches **live restaurant data from the Swiggy API**, dynamically renders restaurants and menus, and provides a smooth, modern user experience with routing, state management, and optimized performance.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Live Website:** https://your-vercel-url.vercel.app
+
 
 ## 🚀 Features
 
